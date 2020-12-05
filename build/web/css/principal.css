@@ -1,0 +1,17 @@
+body{
+    background-color: #CFECEC;
+}
+.mt{
+    margin-top: 20px;
+}
+.timg{
+    height: 180px;
+    width: 100%;
+}
+.container{
+    margin-top: 18px;
+}
+.bold{
+    font-weight: bold;
+}
+
